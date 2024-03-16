@@ -1,6 +1,6 @@
 {
   "name": "arbiter-store-tools",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "",
   "main": "index.js",
   "scripts": {
@@ -8,7 +8,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "https://github.com/xiaoxiaosen520/decrypt.git"
+    "url": "https://github.com/Emma55689/arbiter-store-tools.git"
   },
   "keywords": [],
   "author": "",
